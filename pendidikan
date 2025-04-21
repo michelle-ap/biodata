@@ -1,0 +1,32 @@
+<table>
+<tr>
+    <th>Tingkat Pendidikan</th>
+    <th>Tahun Lulus</th>
+    <th>Nama Sekolah</th>
+    <th>Kota</th>
+  </tr>
+  <tr>
+    <th>TK</th>
+    <th>SD</th>
+    <th>SMP</th>
+    <th>SMA</th>
+  </tr>
+  <tr>
+    <td>2010</td>
+    <td>2016</td>
+    <td>2020</td>
+    <td>2023</td>
+  </tr>
+  <tr>
+    <td>TK Sejahtera</td>
+    <td>SDK Santa Angela</td>
+    <td>SMP Kr. Petra 2</td>
+    <td>SMA Kr. Petra 3</td>
+  </tr>
+  <tr>
+    <td>Surabaya</td>
+    <td>Surabaya</td>
+    <td>Surabaya</td>
+    <td>Surabaya</td>
+  </tr>
+</table>
