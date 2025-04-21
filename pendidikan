@@ -18,7 +18,7 @@ p    {color: red;}
 <tr>
     <th>Tingkat Pendidikan</th>
     <th>Tahun Lulus</th>
-    <th>Nama Sekolah</th>
+    <th>Sekolah</th>
     <th>Kota</th>
   </tr>
   <tr>
